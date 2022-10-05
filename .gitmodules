@@ -1,0 +1,6 @@
+[submodule "josh-kicad-lib"]
+	path = josh-kicad-lib
+	url = git@github.com:joshajohnson/josh-kicad-lib.git
+[submodule "keyswitch-kicad-library"]
+	path = keyswitch-kicad-library
+	url = git@github.com:perigoso/keyswitch-kicad-library.git
